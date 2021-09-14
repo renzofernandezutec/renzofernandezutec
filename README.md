@@ -2,8 +2,8 @@
 ### Programador BackEnd, Desarrolador Movil y Web
 > “If you continue to work hard, let that be the fuel to your fire.” -- Pitbull
 
-### Trabajador en: Royal Systems
-### Estudiante en: UTEC, Lima, Peru
+#### Trabajador en: Royal Systems
+#### Estudiante en: UTEC, Lima, Peru
 
 
 <!--
