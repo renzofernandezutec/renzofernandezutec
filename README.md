@@ -1,6 +1,11 @@
 ## Renzo Antonio Fernandez Gasparetto
 ### Programador BackEnd, Desarrolador Movil y Web
 > “If you continue to work hard, let that be the fuel to your fire.” -- Pitbull
+
+### Trabajador en: Royal Systems
+### Estudiante en: UTEC, Lima, Peru
+
+
 <!--
 **renzofernandezutec/renzofernandezutec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
