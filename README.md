@@ -3,18 +3,18 @@
 > “If you continue to work hard, let that be the fuel to your fire.” -- Pitbull
 
 ### Trabajo y Estudios
-- Trabajador en: Royal Systems
-- Estudiante en: UTEC, Lima, Peru
+- 🔭 Trabajador en: Royal Systems
+- 🌱 Estudiante en: UTEC, Lima, Peru
 
-### 🛠 &nbsp;Tech Stack
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=github)&nbsp;
+### Tecnologias aprendidas: 🛠
+- .Net Rest Api
+- Xamarin Forms Mobile
+- C++
+- Python
+- Microsoft SQL
+
+
+### ⚡ Fun fact: Me encanta manejar y boxear
 
 
 <!--
