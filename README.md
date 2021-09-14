@@ -1,3 +1,5 @@
+![Renzo Fernandez](https://raw.githubusercontent.com/renzofernandezutec/renzofernandezutec/main/IMG1.jpg)
+
 ## Renzo Antonio Fernandez Gasparetto
 ### Programador BackEnd, Desarrolador Movil y Web
 > “If you continue to work hard, let that be the fuel to your fire.” -- Pitbull
@@ -12,7 +14,6 @@
 - C++
 - Python
 - Microsoft SQL
-
 
 ### ⚡ Fun fact: Me encanta manejar y boxear
 
